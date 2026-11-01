@@ -60,41 +60,6 @@
 
 ---
 
-### 💡 Daily Workflow & Code
-
-<p align="left">
-  Architecting modern web applications, shipping performant APIs, and automating deployments. 🚀
-</p>
-
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-class SoftwareEngineer:
-    def __init__(self):
-        self.name = "Fatcur Rahman"
-        self.handle = "@thebex125"
-        self.role = "Fullstack Engineer & Cloud Builder"
-        self.company = "RetroPick"
-        self.location = "Tangerang, Indonesia"
-        self.portfolio = "https://thebexdev.vercel.app"
-        self.theme = "Cyber Blue 🌊"
-        self.motto = "NEVER GIVE UP"
-        self.core_stack = [
-            "Next.js", "React", "TypeScript", "Tailwind CSS",
-            "Node.js", "Express", "Python", "PostgreSQL", "Supabase",
-            "Docker", "Nginx", "Linux VPS", "Vercel"
-        ]
-
-    def say_hi(self):
-        return "Welcome to my profile! Let's build something awesome together 🚀"
-
-me = SoftwareEngineer()
-print(me.say_hi())
-```
-
----
-
 ### 📊 GitHub Activity & Streak
 
 <div align="center">
