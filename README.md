@@ -1,11 +1,21 @@
-<h1 align="left">Hi there, I'm Fatcur Rahman (Thebexncurr)! 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20&height=200&section=header&text=Fatcur%20Rahman%20(Thebexncurr)&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Engineer%20%E2%80%A2%20Web3%20%E2%80%A2%20Cloud%20Architect&descAlignY=58&descColor=fce7f3" width="100%" alt="Header Banner" />
+</div>
+
+<h1 align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />
+  Hi there, I'm <span style="color:#ff69b4;">Fatcur Rahman</span>!
+</h1>
 
 <p align="left">
-  🌍 <b>Based in Tangerang, Indonesia</b> &nbsp;|&nbsp; 💡 <b>Passionate about building innovative digital solutions & scalable web apps</b>
+  🌸 <b>Based in Tangerang, Indonesia</b> &nbsp;|&nbsp; 💖 <b>Passionate about crafting scalable web apps & innovative solutions</b>
 </p>
 
 <p align="left">
-  <i>Fullstack Developer | Next.js & React | Node.js & TypeScript | Python | Web3 & Smart Contracts | DevOps & Cloud Deployment</i>
+  <img src="https://img.shields.io/badge/Role-Fullstack%20Developer-ff69b4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Next.js%20%26%20TypeScript-f472b6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Web3-Smart%20Contracts-ec4899?style=flat-square" />
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%26%20Nginx-db2777?style=flat-square" />
 </p>
 
 <p align="left">
@@ -32,19 +42,19 @@
 
 <p align="left">
   <a href="https://thebexdev.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-thebexdev.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-thebexdev.vercel.app-ff69b4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="mailto:fatcurrahman125@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-fatcurrahman125%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-fatcurrahman125%40gmail.com-f472b6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://x.com/Thebex_nncur" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter%20%2F%20X-@Thebex__nncur-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
+    <img src="https://img.shields.io/badge/Twitter%20%2F%20X-@Thebex__nncur-ec4899?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
   </a>
   &nbsp;
   <a href="https://github.com/thebex125" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-thebex125-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-thebex125-db2777?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -68,6 +78,7 @@ class SoftwareEngineer:
         self.company = "RetroPick"
         self.location = "Tangerang, Indonesia"
         self.portfolio = "https://thebexdev.vercel.app"
+        self.favorite_color = "Pink 🌸"
         self.motto = "NEVER GIVE UP"
         self.skills = [
             "TypeScript", "JavaScript", "React", "Next.js",
@@ -84,14 +95,12 @@ print(me.say_hi())
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Activity & Streak
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thebex125&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebex125&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=thebex125&theme=radical&hide_border=false&border=ff69b4&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakNum=ff69b4&sideNums=f472b6&currStreakLabel=ff69b4&sideLabels=f472b6&dates=fbcfe8&background=0d1117" alt="GitHub Streak Stats" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thebex125&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24&height=120&section=footer" width="100%" alt="Footer Banner" />
+</div>
